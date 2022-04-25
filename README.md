@@ -7,6 +7,6 @@
   
 <!--   <img src="my_cartonize_pic.jpeg" align="right" width="25%"/> -->
 
-I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include PHP, Javascript
-now I'm seeking for full time opportunity that will
-challenge me and allow me to use my education, skills
+I'm a Software Engineer who is passionate about technologies and web development, I
+enjoy working with JavaScript and PHP, now I'm seeking an opportunity that will
+challenge me and allow me to use my education, skills to customize your pins
