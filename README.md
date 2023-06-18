@@ -3,7 +3,7 @@
 
 I'm a software developer with expertise in JavaScript, React & Redux, and Node.js for web development. I have a strong foundation in programming, a passion for efficient solutions, and a commitment to continuous learning. I thrive in collaborative environments, contribute throughout the software development lifecycle, and seek opportunities to apply my technical expertise in a dynamic setting.
 
-
+[![Readme Quotes](https://ayat-genrator.vercel.app/api?type=horizontal&theme=dark)](https://github.com/yousefdergham/ayat-genrator)
 
 📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
 </br>
