@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi there 👋</h1>
 
-I'm a software developer with expertise in JavaScript, React & Redux, and Node.js for web development. I have a strong foundation in programming, a passion for efficient solutions, and a commitment to continuous learning. I thrive in collaborative environments, contribute throughout the software development lifecycle, and seek opportunities to apply my technical expertise in a dynamic setting.
+Software developer with a strong programming background and a passion for efficient solutions. Skilled in JavaScript, React, Redux, Node.js, and Ruby on Rails, along with agile methodologies, focusing on web development.
+Committed to continuous learning, staying updated with emerging tech. A collaborative problem solver, seeking to contribute expertise in a dynamic environment.
 
 [![Readme Quotes](https://ayat-genrator.vercel.app/api?type=horizontal&theme=dark)](https://github.com/yousefdergham/ayat-genrator)
 
